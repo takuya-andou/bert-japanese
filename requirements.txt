@@ -1,4 +1,2 @@
 sentencepiece
-jupyter
-tensorflow
 pandas

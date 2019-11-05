@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:latest-gpu-py3
+FROM tensorflow/tensorflow:1.14.0-gpu-py3
 LABEL maintainer="takuya0411@gmail.com"
 LABEL version="1.0"
 
